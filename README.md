@@ -46,7 +46,7 @@ To use the pricing card in your project:
 
 ## Customization
 
-Feel free to customize the pricing card to fit your project's branding and design requirements. You can modify the colors, fonts, and layout by updating the CSS styles in the 'styles.css' file.
+**Feel free to customize the pricing card to fit your project's branding and design requirements. You can modify the colors, fonts, and layout by updating the CSS styles in the 'styles.css' file.**
 
 /* Example: Change background color */
 
@@ -72,7 +72,7 @@ Feel free to customize the pricing card to fit your project's branding and desig
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**This project is licensed under the MIT License - see the LICENSE file for details.**
 
 
 
