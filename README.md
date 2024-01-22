@@ -18,9 +18,11 @@
 
    **git clone:** https://github.com/your-username/pricing-card.git
 
-2. **Open the project in your preferred code editor.**
+   <link href="PricingCard.css" rel="stylesheet" />
 
-3. **View the 'index.html' file in your browser to see the pricing card.**
+3. **Open the project in your preferred code editor.**
+
+4. **View the 'index.html' file in your browser to see the pricing card.**
 
 ## Features
 
@@ -71,8 +73,6 @@
 }**
 
 ## Output
-
-<link href="PricingCard.css" rel="stylesheet" />
 
 ![image](https://github.com/Janashree2004/PricingCard/assets/142415775/917ae8de-348c-4dfd-b028-a878f110e29d)
 
