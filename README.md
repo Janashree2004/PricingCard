@@ -75,7 +75,8 @@
 
 ## Output
 
-    https://github.com/Janashree2004/PricingCard/assets/142415775/ebadb52e-0381-43d9-957e-9e8637eda681
+    ![image](https://github.com/Janashree2004/PricingCard/assets/142415775/917ae8de-348c-4dfd-b028-a878f110e29d)
+
 
 
 ## License
