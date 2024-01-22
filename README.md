@@ -50,19 +50,22 @@ Feel free to customize the pricing card to fit your project's branding and desig
 
 /* Example: Change background color */
 
-**.pricing-card {
+**.pricing-card 
+{
     background-color: #f0f0f0;
 }**
 
 /* Example: Change font color */
 
-**.pricing-card h2 {
+**.pricing-card h2 
+{
     color: #333;
 }**
 
 /* Example: Customize button color */
 
-**.pricing-card .btn {
+**.pricing-card .btn 
+{
     background-color: #3498db;
     color: #fff;
 }**
