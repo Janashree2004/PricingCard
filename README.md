@@ -70,14 +70,9 @@
     color: #fff;
 }**
 
-## Github
-
-
 ## Output
 
 ![image](https://github.com/Janashree2004/PricingCard/assets/142415775/917ae8de-348c-4dfd-b028-a878f110e29d)
-
-
 
 ## License
 
