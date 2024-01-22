@@ -69,9 +69,9 @@
     background-color: #3498db;
     color: #fff;
 }**
+
 ## Github
 
-[demo!](https://janashree2004.github.io/PricingCard/)
 
 ## Output
 
