@@ -71,10 +71,11 @@
 }**
 ## Github
 
-
+       https://janashree2004.github.io/PricingCard/
 
 ## Output
 
+       ![Output](https://github.com/Janashree2004/PricingCard/assets/142415775/ebadb52e-0381-43d9-957e-9e8637eda681)
 
 
 ## License
