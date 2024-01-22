@@ -71,7 +71,7 @@
 }**
 ## Github
 
-         https://janashree2004.github.io/PricingCard/
+[demo!](https://janashree2004.github.io/PricingCard/)
 
 ## Output
 
