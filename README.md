@@ -71,11 +71,11 @@
 }**
 ## Github
 
-    https://janashree2004.github.io/PricingCard/
+         https://janashree2004.github.io/PricingCard/
 
 ## Output
 
-    ![image](https://github.com/Janashree2004/PricingCard/assets/142415775/917ae8de-348c-4dfd-b028-a878f110e29d)
+![image](https://github.com/Janashree2004/PricingCard/assets/142415775/917ae8de-348c-4dfd-b028-a878f110e29d)
 
 
 
