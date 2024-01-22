@@ -16,7 +16,7 @@ To get started with this pricing card, follow these steps:
 
 1. Clone the repository:
 
-      git clone https://github.com/your-username/pricing-card.git
+   git clone: https://github.com/your-username/pricing-card.git
 
 2. Open the project in your preferred code editor.
 
