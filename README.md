@@ -1,6 +1,6 @@
 ## PricingCard
 
-Creating a Pricing Card using HTML and CSS.The pricing card is designed to display different pricing plans for a product or service.
+**Creating a Pricing Card using HTML and CSS.The pricing card is designed to display different pricing plans for a product or service.**
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ Creating a Pricing Card using HTML and CSS.The pricing card is designed to displ
 
 ## Getting Started
 
-To get started with this pricing card, follow these steps:
+**To get started with this pricing card, follow these steps:**
 
 1. **Clone the repository:**
 
-   git clone: https://github.com/your-username/pricing-card.git
+   **git clone:** https://github.com/your-username/pricing-card.git
 
 2. **Open the project in your preferred code editor.**
 
@@ -34,7 +34,7 @@ To get started with this pricing card, follow these steps:
 
 ## Usage
 
-To use the pricing card in your project:
+**To use the pricing card in your project:**
 
 1. **Copy the HTML code for the pricing card from the index.html file.**
 
